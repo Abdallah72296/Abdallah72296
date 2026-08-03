@@ -187,7 +187,7 @@ const currentGoals = {
 
 **Thank you for visiting my profile! Feel free to reach out for collaboration or just a tech chat!** 🚀
 
-⭐️ From [NadaAmer20](https://github.com/Abdallah72296) with 💜
+⭐️ From [Abdallah72296](https://github.com/Abdallah72296) with 💜
 
 </div>
 
