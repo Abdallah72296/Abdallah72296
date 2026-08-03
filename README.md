@@ -158,7 +158,7 @@ const currentGoals = {
 
 <div align="center">
 
-[![Abdallah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NadaAmer20&theme=react-dark&hide_border=true)](https://github.com/Abdallah72296)
+[![Abdallah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdallah72296&theme=react-dark&hide_border=true)](https://github.com/Abdallah72296)
 
 </div>
 
