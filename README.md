@@ -89,6 +89,12 @@ Contributed to a real-world banking project for the **Social Development Bank in
 
 A **freelance business application for Gulf Emergency Company for Safety Tools & Materials**, focused on managing maintenance visits and related operational workflows.
 
+<h3>🧩 Task99 — Project Management System</h3>
+
+A full-stack **project-management platform** for planning work, coordinating teams, tracking delivery, collaboration, time management, and performance reporting.
+
+🔗 [View Repository](https://github.com/Abdallah72296/Project-Management-System)
+
 <h3>🧩 SystemSales.Api</h3>
 
 A layered **ASP.NET Core Web API** project demonstrating separation of API, core, service, data, and infrastructure responsibilities, with **.NET 7, Entity Framework Core, SQL Server, and Swagger/OpenAPI**.
