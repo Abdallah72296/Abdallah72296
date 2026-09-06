@@ -111,20 +111,33 @@ A graduation project demonstrating practical software development, application a
 
 <h2 align="center">📌 Recruiter Snapshot</h2>
 
-<div align="center">
-<p align="left">
+<h3>💻 Backend .NET Developer</h3>
 
-💻 **Role:** Backend .NET Developer  
-⚙️ **Core Stack:** C# · .NET · ASP.NET Core · Web API · EF Core  
-🗄️ **Data & Storage:** SQL Server · PostgreSQL · Redis  
-🏗️ **Architecture:** Clean Architecture · CQRS · SOLID · Design Patterns  
-🔐 **Security & APIs:** REST APIs · JWT · ASP.NET Core Identity  
-🐳 **Infrastructure:** Docker · RabbitMQ · IIS · Azure Fundamentals  
-🧪 **Engineering Focus:** Maintainable · Testable · Production-oriented code  
-🤝 **Experience:** Real-world business systems · Banking · Freelance Projects
+Focused on building **reliable backend systems, scalable REST APIs, and maintainable business applications** using the .NET ecosystem.
 
-</p>
-</div>
+<h3>⚙️ Core Technology Stack</h3>
+
+**C# · .NET · ASP.NET Core · Web API · Entity Framework Core · LINQ · SQL Server · PostgreSQL · Redis**
+
+<h3>🏗️ Architecture & Engineering</h3>
+
+Experienced with **Clean Architecture, CQRS, SOLID principles, Design Patterns, Repository Pattern, MediatR, FluentValidation, and Dependency Injection**.
+
+<h3>🔐 APIs & Security</h3>
+
+Hands-on with **REST APIs, JWT Authentication, ASP.NET Core Identity**, and backend integration patterns.
+
+<h3>🐳 Infrastructure & Messaging</h3>
+
+Experience with **Docker, RabbitMQ, IIS, and Azure fundamentals**, including containerized environments and asynchronous messaging concepts.
+
+<h3>🧪 Engineering Mindset</h3>
+
+Focused on writing **clean, maintainable, testable, and production-oriented code**, with attention to scalability, separation of concerns, and real-world business requirements.
+
+<h3>🤝 Professional Experience</h3>
+
+Experience across **real-world business systems, banking projects, freelance development, and technical education**, with a strong focus on backend development and problem solving.
 
 ---
 
