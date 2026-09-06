@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 About Me</h2>
 
 I'm a **Backend .NET Developer** who enjoys turning business requirements into clean, reliable, and production-oriented backend solutions.
 
@@ -33,38 +33,34 @@ I'm a **Backend .NET Developer** who enjoys turning business requirements into c
 
 ---
 
-## ⚙️ Tech Stack
+<h2 align="center">⚙️ Tech Stack</h2>
 
-### Backend Development
-<p>
+<h3 align="center">Backend Development</h3>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
+<p align="center"><code>C#</code> · <code>.NET</code> · <code>ASP.NET Core</code> · <code>Web API</code> · <code>Entity Framework Core</code> · <code>LINQ</code> · <code>REST APIs</code> · <code>JWT</code></p>
 
-`C#` · `.NET` · `ASP.NET Core` · `Web API` · `Entity Framework Core` · `LINQ` · `REST APIs` · `JWT`
+<h3 align="center">Architecture & Engineering</h3>
+<p align="center"><code>Clean Architecture</code> · <code>CQRS</code> · <code>SOLID</code> · <code>Repository Pattern</code> · <code>MediatR</code> · <code>FluentValidation</code> · <code>Dependency Injection</code></p>
 
-### Architecture & Engineering
-
-`Clean Architecture` · `CQRS` · `SOLID` · `Repository Pattern` · `MediatR` · `FluentValidation` · `Dependency Injection`
-
-### Database & Infrastructure
-<p>
+<h3 align="center">Database & Infrastructure</h3>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,redis,docker,rabbitmq" />
 </p>
+<p align="center"><code>SQL Server</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code> · <code>RabbitMQ</code> · <code>IIS</code></p>
 
-`SQL Server` · `PostgreSQL` · `Redis` · `Docker` · `RabbitMQ` · `IIS`
-
-### Development Tools
-<p>
+<h3 align="center">Development Tools</h3>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
 </p>
-
-`Git` · `GitHub` · `Visual Studio` · `VS Code` · `Postman`
+<p align="center"><code>Git</code> · <code>GitHub</code> · <code>Visual Studio</code> · <code>VS Code</code> · <code>Postman</code></p>
 
 ---
 
-## 💼 Professional Experience
+<h2 align="center">💼 Professional Experience</h2>
 
-### Backend .NET Developer — Jedra
+<h3 align="center">Backend .NET Developer — Jedra</h3>
 
 - Developing backend services and RESTful APIs with **ASP.NET Core**
 - Implementing business logic with maintainable and structured code
@@ -72,7 +68,7 @@ I'm a **Backend .NET Developer** who enjoys turning business requirements into c
 - Applying **SOLID principles, Clean Architecture, and software design practices**
 - Contributing to real-world business applications and integrations
 
-### Coding Instructor — iSchool & Educational Programs
+<h3 align="center">Coding Instructor — iSchool & Educational Programs</h3>
 
 - Teaching programming fundamentals, algorithms, and problem solving
 - Mentoring learners and simplifying complex technical concepts
@@ -80,29 +76,29 @@ I'm a **Backend .NET Developer** who enjoys turning business requirements into c
 
 ---
 
-## 🚀 Featured Work
+<h2 align="center">🚀 Featured Work</h2>
 
-### 🏦 Saudi Social Development Bank — Saudi Arabia
+<h3 align="center">🏦 Saudi Social Development Bank — Saudi Arabia</h3>
 
 Contributed to a real-world banking project for the **Social Development Bank in Saudi Arabia**, working on backend functionality and business requirements.
 
-### 🛠️ MaintenanceVisits — Gulf Emergency Company
+<h3 align="center">🛠️ MaintenanceVisits — Gulf Emergency Company</h3>
 
 A **freelance business application for Gulf Emergency Company for Safety Tools & Materials**, focused on managing maintenance visits and related operational workflows.
 
-### 🧩 SystemSales.Api
+<h3 align="center">🧩 SystemSales.Api</h3>
 
 A layered **ASP.NET Core Web API** project demonstrating separation of API, core, service, data, and infrastructure responsibilities, with **.NET 7, Entity Framework Core, SQL Server, and Swagger/OpenAPI**.
 
 🔗 [View Repository](https://github.com/Abdallah72296/SystemSales.Api)
 
-### 🩸 Blood Donation Website
+<h3 align="center">🩸 Blood Donation Website</h3>
 
 A web-based project focused on blood donation workflows and managing related application functionality.
 
 🔗 [View Repository](https://github.com/Abdallah72296/Blood_Donation_Website)
 
-### 🎓 Graduation Project
+<h3 align="center">🎓 Graduation Project</h3>
 
 A graduation project demonstrating practical software development, application architecture, and database integration.
 
@@ -110,16 +106,18 @@ A graduation project demonstrating practical software development, application a
 
 ---
 
-## 📌 Recruiter Snapshot
+<h2 align="center">📌 Recruiter Snapshot</h2>
 
-**Primary Focus:** Backend .NET Development  
-**Core Stack:** C# · ASP.NET Core · Web API · EF Core · SQL Server  
-**Architecture:** Clean Architecture · CQRS · SOLID · Design Patterns  
-**Additional:** Docker · RabbitMQ · PostgreSQL · JWT · Git/GitHub
+<p align="center">
+<strong>Primary Focus:</strong> Backend .NET Development<br/>
+<strong>Core Stack:</strong> C# · ASP.NET Core · Web API · EF Core · SQL Server<br/>
+<strong>Architecture:</strong> Clean Architecture · CQRS · SOLID · Design Patterns<br/>
+<strong>Additional:</strong> Docker · RabbitMQ · PostgreSQL · JWT · Git/GitHub
+</p>
 
 ---
 
-## 📈 What I'm Improving
+<h2 align="center">📈 What I'm Improving</h2>
 
 | Area | Focus |
 |---|---|
@@ -133,7 +131,7 @@ A graduation project demonstrating practical software development, application a
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
@@ -148,7 +146,7 @@ A graduation project demonstrating practical software development, application a
 
 ---
 
-## 📈 Contribution Activity
+<h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
 
@@ -158,7 +156,7 @@ A graduation project demonstrating practical software development, application a
 
 ---
 
-## 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
