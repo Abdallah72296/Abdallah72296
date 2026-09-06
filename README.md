@@ -35,22 +35,22 @@ I'm a **Backend .NET Developer** who enjoys turning business requirements into c
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<h3 align="center">Backend Development</h3>
+<h3>Backend Development</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 <p align="center"><code>C#</code> · <code>.NET</code> · <code>ASP.NET Core</code> · <code>Web API</code> · <code>Entity Framework Core</code> · <code>LINQ</code> · <code>REST APIs</code> · <code>JWT</code></p>
 
-<h3 align="center">Architecture & Engineering</h3>
+<h3>Architecture & Engineering</h3>
 <p align="center"><code>Clean Architecture</code> · <code>CQRS</code> · <code>SOLID</code> · <code>Repository Pattern</code> · <code>MediatR</code> · <code>FluentValidation</code> · <code>Dependency Injection</code></p>
 
-<h3 align="center">Database & Infrastructure</h3>
+<h3>Database & Infrastructure</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,redis,docker,rabbitmq" />
 </p>
 <p align="center"><code>SQL Server</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code> · <code>RabbitMQ</code> · <code>IIS</code></p>
 
-<h3 align="center">Development Tools</h3>
+<h3>Development Tools</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
 </p>
@@ -60,7 +60,7 @@ I'm a **Backend .NET Developer** who enjoys turning business requirements into c
 
 <h2 align="center">💼 Professional Experience</h2>
 
-<h3 align="center">Backend .NET Developer — Jedra</h3>
+<h3>Backend .NET Developer — Jedra</h3>
 
 - Developing backend services and RESTful APIs with **ASP.NET Core**
 - Implementing business logic with maintainable and structured code
@@ -68,7 +68,7 @@ I'm a **Backend .NET Developer** who enjoys turning business requirements into c
 - Applying **SOLID principles, Clean Architecture, and software design practices**
 - Contributing to real-world business applications and integrations
 
-<h3 align="center">Coding Instructor — iSchool & Educational Programs</h3>
+<h3>Coding Instructor — iSchool & Educational Programs</h3>
 
 - Teaching programming fundamentals, algorithms, and problem solving
 - Mentoring learners and simplifying complex technical concepts
@@ -78,27 +78,27 @@ I'm a **Backend .NET Developer** who enjoys turning business requirements into c
 
 <h2 align="center">🚀 Featured Work</h2>
 
-<h3 align="center">🏦 Saudi Social Development Bank — Saudi Arabia</h3>
+<h3>🏦 Saudi Social Development Bank — Saudi Arabia</h3>
 
 Contributed to a real-world banking project for the **Social Development Bank in Saudi Arabia**, working on backend functionality and business requirements.
 
-<h3 align="center">🛠️ MaintenanceVisits — Gulf Emergency Company</h3>
+<h3>🛠️ MaintenanceVisits — Gulf Emergency Company</h3>
 
 A **freelance business application for Gulf Emergency Company for Safety Tools & Materials**, focused on managing maintenance visits and related operational workflows.
 
-<h3 align="center">🧩 SystemSales.Api</h3>
+<h3>🧩 SystemSales.Api</h3>
 
 A layered **ASP.NET Core Web API** project demonstrating separation of API, core, service, data, and infrastructure responsibilities, with **.NET 7, Entity Framework Core, SQL Server, and Swagger/OpenAPI**.
 
 🔗 [View Repository](https://github.com/Abdallah72296/SystemSales.Api)
 
-<h3 align="center">🩸 Blood Donation Website</h3>
+<h3>🩸 Blood Donation Website</h3>
 
 A web-based project focused on blood donation workflows and managing related application functionality.
 
 🔗 [View Repository](https://github.com/Abdallah72296/Blood_Donation_Website)
 
-<h3 align="center">🎓 Graduation Project</h3>
+<h3>🎓 Graduation Project</h3>
 
 A graduation project demonstrating practical software development, application architecture, and database integration.
 
