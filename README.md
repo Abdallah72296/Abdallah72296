@@ -4,7 +4,7 @@
 
 # 👋 Abdallah Abdeltawab
 
-### Backend .NET Developer | Software Engineer
+### Backend .NET Developer | C# | ASP.NET Core | SQL Server | Clean Architecture
 
 **I build reliable backend systems, scalable APIs, and maintainable software with the .NET ecosystem.**
 
@@ -82,23 +82,40 @@ I'm a **Backend .NET Developer** who enjoys turning business requirements into c
 
 ## 🚀 Featured Work
 
-### 🏦 Saudi Social Development Bank
+### 🏦 Saudi Social Development Bank — Saudi Arabia
 
 Contributed to a real-world banking project for the **Social Development Bank in Saudi Arabia**, working on backend functionality and business requirements.
 
-### 🛠️ MaintenanceVisits
+### 🛠️ MaintenanceVisits — Gulf Emergency Company
 
 A **freelance business application for Gulf Emergency Company for Safety Tools & Materials**, focused on managing maintenance visits and related operational workflows.
+
+### 🧩 SystemSales.Api
+
+A layered **ASP.NET Core Web API** project demonstrating separation of API, core, service, data, and infrastructure responsibilities, with **.NET 7, Entity Framework Core, SQL Server, and Swagger/OpenAPI**.
+
+🔗 [View Repository](https://github.com/Abdallah72296/SystemSales.Api)
 
 ### 🩸 Blood Donation Website
 
 A web-based project focused on blood donation workflows and managing related application functionality.
 
+🔗 [View Repository](https://github.com/Abdallah72296/Blood_Donation_Website)
+
 ### 🎓 Graduation Project
 
 A graduation project demonstrating practical software development, application architecture, and database integration.
 
-> Check my repositories below for more projects and source code.
+🔗 [View Repository](https://github.com/Abdallah72296/GraduationProject)
+
+---
+
+## 📌 Recruiter Snapshot
+
+**Primary Focus:** Backend .NET Development  
+**Core Stack:** C# · ASP.NET Core · Web API · EF Core · SQL Server  
+**Architecture:** Clean Architecture · CQRS · SOLID · Design Patterns  
+**Additional:** Docker · RabbitMQ · PostgreSQL · JWT · Git/GitHub
 
 ---
 
