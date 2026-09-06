@@ -112,31 +112,18 @@ A graduation project demonstrating practical software development, application a
 <h2 align="center">📌 Recruiter Snapshot</h2>
 
 <div align="center">
+<p align="left">
 
-💻 **Role**  
-Backend .NET Developer
+💻 **Role:** Backend .NET Developer  
+⚙️ **Core Stack:** C# · .NET · ASP.NET Core · Web API · EF Core  
+🗄️ **Data & Storage:** SQL Server · PostgreSQL · Redis  
+🏗️ **Architecture:** Clean Architecture · CQRS · SOLID · Design Patterns  
+🔐 **Security & APIs:** REST APIs · JWT · ASP.NET Core Identity  
+🐳 **Infrastructure:** Docker · RabbitMQ · IIS · Azure Fundamentals  
+🧪 **Engineering Focus:** Maintainable · Testable · Production-oriented code  
+🤝 **Experience:** Real-world business systems · Banking · Freelance Projects
 
-⚙️ **Core Stack**  
-C# · .NET · ASP.NET Core · Web API · EF Core
-
-🗄️ **Data & Storage**  
-SQL Server · PostgreSQL · Redis
-
-🏗️ **Architecture**  
-Clean Architecture · CQRS · SOLID · Design Patterns
-
-🔐 **Security & APIs**  
-REST APIs · JWT · ASP.NET Core Identity
-
-🐳 **Infrastructure**  
-Docker · RabbitMQ · IIS · Azure Fundamentals
-
-🧪 **Engineering Focus**  
-Maintainable · Testable · Production-oriented code
-
-🤝 **Experience**  
-Real-world business systems · Banking · Freelance Projects
-
+</p>
 </div>
 
 ---
