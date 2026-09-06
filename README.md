@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Abdallah%20Abdeltawab&fontSize=56&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=230&section=header&text=Abdallah%20Abdeltawab&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
 
-# 👋 Hi, I'm Abdallah Abdeltawab
+# 👋 Abdallah Abdeltawab
 
-### Backend .NET Developer | Software Engineer | Problem Solver
+### Backend .NET Developer | Software Engineer
 
-**Building reliable backend systems, scalable APIs, and real-world software with .NET.**
+**I build reliable backend systems, scalable APIs, and maintainable software with the .NET ecosystem.**
 
 <p>
 <a href="https://www.linkedin.com/in/abdallah-abdeltawab-54b58b226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,27 +18,29 @@
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a **Backend .NET Developer** focused on building maintainable and production-oriented applications.
+I'm a **Backend .NET Developer** who enjoys turning business requirements into clean, reliable, and production-oriented backend solutions.
 
-- 💻 Specialized in **C#, ASP.NET Core, Web APIs, EF Core, and SQL Server**
-- 🏗️ Interested in **Clean Architecture, CQRS, SOLID, Design Patterns, and System Design**
-- 🐳 Working with **Docker** and containerized application environments
-- 📨 Exploring distributed systems and messaging with **RabbitMQ**
-- 👨‍🏫 Experienced **Coding Instructor**, teaching programming and problem solving
-- 🎯 Focused on writing clean, testable, scalable backend code
+- 💻 **C# / .NET / ASP.NET Core Web API**
+- 🗄️ **SQL Server / PostgreSQL / Entity Framework Core**
+- 🏗️ **Clean Architecture / CQRS / SOLID / Design Patterns**
+- 🔐 **REST APIs / JWT Authentication / ASP.NET Core Identity**
+- 🐳 **Docker & containerized application environments**
+- 📨 **RabbitMQ & messaging concepts**
+- 🧪 Focused on **clean, maintainable, testable code**
+- 👨‍🏫 Experienced **Coding Instructor** with a focus on programming fundamentals and problem solving
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Tech Stack
 
-### Backend
+### Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 
-`C#` · `.NET` · `ASP.NET Core Web API` · `Entity Framework Core` · `LINQ` · `REST APIs` · `JWT`
+`C#` · `.NET` · `ASP.NET Core` · `Web API` · `Entity Framework Core` · `LINQ` · `REST APIs` · `JWT`
 
 ### Architecture & Engineering
 
@@ -51,8 +53,7 @@ I'm a **Backend .NET Developer** focused on building maintainable and production
 
 `SQL Server` · `PostgreSQL` · `Redis` · `Docker` · `RabbitMQ` · `IIS`
 
-### Tools
-
+### Development Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
 </p>
@@ -61,59 +62,61 @@ I'm a **Backend .NET Developer** focused on building maintainable and production
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### Backend .NET Developer — Jedra
 
-- Building backend services and RESTful APIs using **ASP.NET Core**
-- Implementing business logic with clean and maintainable code
+- Developing backend services and RESTful APIs with **ASP.NET Core**
+- Implementing business logic with maintainable and structured code
 - Working with **Entity Framework Core** and relational databases
-- Applying software engineering principles such as **SOLID and Clean Architecture**
-- Working on real-world business applications and integrations
+- Applying **SOLID principles, Clean Architecture, and software design practices**
+- Contributing to real-world business applications and integrations
 
-### Coding Instructor — iSchool / Educational Programs
+### Coding Instructor — iSchool & Educational Programs
 
 - Teaching programming fundamentals, algorithms, and problem solving
-- Mentoring students and simplifying complex technical concepts
-- Supporting learners through practical coding projects
+- Mentoring learners and simplifying complex technical concepts
+- Supporting students through practical programming projects
 
 ---
 
-## ⭐ Selected Projects
+## 🚀 Featured Work
 
-### 🏦 Saudi Development Bank Project
+### 🏦 Saudi Social Development Bank
 
-Worked on a real-world banking-related project for the **Social Development Bank in Saudi Arabia**, contributing to backend development and business functionality.
+Contributed to a real-world banking project for the **Social Development Bank in Saudi Arabia**, working on backend functionality and business requirements.
 
 ### 🛠️ MaintenanceVisits
 
-A **freelance project for Gulf Emergency Company for Safety Tools & Materials**, focused on managing maintenance visits and related business operations.
+A **freelance business application for Gulf Emergency Company for Safety Tools & Materials**, focused on managing maintenance visits and related operational workflows.
 
-### 🛒 E-Commerce API
+### 🩸 Blood Donation Website
 
-Backend application demonstrating API development, authentication, database integration, and business logic using the **.NET ecosystem**.
+A web-based project focused on blood donation workflows and managing related application functionality.
 
-> More projects and source code are available in my repositories below.
+### 🎓 Graduation Project
 
----
+A graduation project demonstrating practical software development, application architecture, and database integration.
 
-## 📚 Currently Learning & Improving
-
-```text
-System Design          █████████░  90%
-Clean Architecture     █████████░  90%
-Docker                 ████████░░  80%
-RabbitMQ               ███████░░░  70%
-Microservices           ███████░░░  70%
-Azure / Cloud           ██████░░░░  60%
-Testing & CI/CD         ██████░░░░  60%
-```
-
-My current focus is becoming a stronger **backend engineer** by improving system design, distributed systems, cloud technologies, testing, and production practices.
+> Check my repositories below for more projects and source code.
 
 ---
 
-## 📊 GitHub Activity
+## 📈 What I'm Improving
+
+| Area | Focus |
+|---|---|
+| 🧠 System Design | Designing scalable and maintainable backend systems |
+| 🏗️ Architecture | Clean Architecture, CQRS & better separation of concerns |
+| 🐳 Docker | Containers, networking, volumes & production workflows |
+| 📨 Messaging | RabbitMQ & asynchronous communication |
+| ☁️ Cloud | Azure fundamentals and deployment practices |
+| 🔄 CI/CD | Automation, testing and delivery pipelines |
+| 🧪 Testing | Writing more reliable and maintainable automated tests |
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -128,7 +131,7 @@ My current focus is becoming a stronger **backend engineer** by improving system
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -142,14 +145,16 @@ My current focus is becoming a stronger **backend engineer** by improving system
 
 <div align="center">
 
-I'm open to **Backend .NET opportunities, freelance projects, and technical collaborations**.
+**Open to Backend .NET opportunities, freelance projects, and technical collaborations.**
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/abdallah-abdeltawab-54b58b226"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Abdallah72296"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-**Thanks for visiting my profile! 🚀**
+⭐ **Thanks for visiting my profile!**
 
 </div>
 
