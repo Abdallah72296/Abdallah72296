@@ -83,7 +83,9 @@ I'm a **Backend .NET Developer** who enjoys turning business requirements into c
 
 <h3>🏦 Saudi Social Development Bank — Saudi Arabia</h3>
 
-Contributed to a real-world banking project for the **Social Development Bank in Saudi Arabia**, working as a **Backend .NET Developer** on backend functionality and business requirements.
+Contributed as a **Backend .NET Developer** to a real-world banking project, working on backend functionality and business requirements.
+
+**Tech:** C# · ASP.NET Core Web API · Entity Framework Core · SQL Server · PostgreSQL · External Banking APIs · RabbitMQ · Redis · LDAP · Clean Architecture · CQRS · JWT Authentication · Repository / Unit of Work · REST APIs
 
 🔗 [View Project README](https://github.com/Abdallah72296/Saudi-Social-Development-Bank#readme)
 
