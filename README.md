@@ -87,7 +87,11 @@ Contributed to a real-world banking project for the **Social Development Bank in
 
 <h3>🛠️ MaintenanceVisits — Gulf Emergency Company</h3>
 
-A **freelance business application for Gulf Emergency Company for Safety Tools & Materials**, focused on managing maintenance visits and related operational workflows.
+A **freelance business application for Gulf Emergency Company for Safety Tools & Materials**, focused on maintenance contracts, field visits, technician workflows, technical reporting, quotations, invoicing, and operational analytics.
+
+**Tech:** ASP.NET Core 9 Web API · C# · Clean Architecture · CQRS · MediatR · EF Core 9 · SQL Server · JWT · QuestPDF · ClosedXML
+
+🔗 [View Repository](https://github.com/Abdallah72296/MaintenanceVisits)
 
 <h3>🧩 Task99 — Project Management System</h3>
 
