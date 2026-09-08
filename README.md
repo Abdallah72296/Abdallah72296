@@ -83,7 +83,9 @@ I'm a **Backend .NET Developer** who enjoys turning business requirements into c
 
 <h3>🏦 Saudi Social Development Bank — Saudi Arabia</h3>
 
-Contributed to a real-world banking project for the **Social Development Bank in Saudi Arabia**, working on backend functionality and business requirements.
+Contributed to a real-world banking project for the **Social Development Bank in Saudi Arabia**, working as a **Backend .NET Developer** on backend functionality and business requirements.
+
+🔗 [View Project README](https://github.com/Abdallah72296/Saudi-Social-Development-Bank#readme)
 
 <h3>🛠️ MaintenanceVisits — Gulf Emergency Company</h3>
 
