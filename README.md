@@ -113,13 +113,13 @@ A layered **ASP.NET Core Web API** project demonstrating separation of API, core
 
 🔗 [View Repository](https://github.com/Abdallah72296/SystemSales.Api)
 
-<h3>🎓 Graduation Project</h3>
+<h3>🎓 Graduation Project — Bustan Mall E-Commerce Platform</h3>
 
-A backend-focused **ASP.NET Core Web API** graduation project that brings together healthcare and selected local-service modules with authentication, authorization, database integration, and RESTful APIs.
+My **graduation project**, a multi-store **E-Commerce platform for Bustan Mall** where customers can browse products, manage carts and orders, while store owners can apply to create stores and manage their products after approval.
 
-**Tech:** C# · .NET 6 · ASP.NET Core Web API · EF Core 6 · SQL Server · ASP.NET Core Identity · JWT Bearer · AutoMapper · Swagger/OpenAPI · Repository/Service Pattern · Selenium WebDriver · Zendesk API
+**Tech:** C# · .NET 7 · ASP.NET Core Web API · EF Core · SQL Server · ASP.NET Core Identity · JWT Bearer · Swagger/OpenAPI · Repository/Service Pattern · DTOs · Dependency Injection · Newtonsoft.Json
 
-🔗 [View Repository](https://github.com/Abdallah72296/GraduationProject)
+🔗 [View Repository](https://github.com/Abdallah72296/E-Commerce)
 
 ---
 
