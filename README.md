@@ -97,23 +97,39 @@ A **freelance business application for Gulf Emergency Company for Safety Tools &
 
 A full-stack **project-management platform** for planning work, coordinating teams, tracking delivery, collaboration, time management, and performance reporting.
 
+**Tech:** ASP.NET Core 8 · C# · Blazor WebAssembly · JavaScript · Bootstrap · EF Core · PostgreSQL · CQRS/MediatR · FluentValidation · JWT · GitHub API · Docker · QuestPDF · EPPlus
+
 🔗 [View Repository](https://github.com/Abdallah72296/Project-Management-System)
 
 <h3>🧩 SystemSales.Api</h3>
 
-A layered **ASP.NET Core Web API** project demonstrating separation of API, core, service, data, and infrastructure responsibilities, with **.NET 7, Entity Framework Core, SQL Server, and Swagger/OpenAPI**.
+A layered **ASP.NET Core Web API** project demonstrating separation of API, core, service, data, and infrastructure responsibilities.
+
+**Tech:** C# · .NET 7 · ASP.NET Core Web API · EF Core 7 · SQL Server · MediatR · AutoMapper · Swagger/OpenAPI
 
 🔗 [View Repository](https://github.com/Abdallah72296/SystemSales.Api)
+
+<h3>🧩 Portfolio Project API</h3>
+
+A production-oriented backend API for managing portfolio-related data using a multi-layered architecture.
+
+**Tech:** C# · .NET 9 · ASP.NET Core Web API · EF Core · SQL Server · JWT Bearer · Microsoft Identity Web · OpenAPI · Scalar
+
+🔗 [View Repository](https://github.com/Abdallah72296/PortfolioprojectApi)
 
 <h3>🩸 Blood Donation Website</h3>
 
 A web-based project focused on blood donation workflows and managing related application functionality.
+
+**Tech:** HTML
 
 🔗 [View Repository](https://github.com/Abdallah72296/Blood_Donation_Website)
 
 <h3>🎓 Graduation Project</h3>
 
 A graduation project demonstrating practical software development, application architecture, and database integration.
+
+**Tech:** C#
 
 🔗 [View Repository](https://github.com/Abdallah72296/GraduationProject)
 
