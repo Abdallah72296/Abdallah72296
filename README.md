@@ -20,15 +20,15 @@
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
-I'm a **Backend .NET Developer** focused on turning business requirements into clean, reliable, and production-oriented backend solutions.
+I'm a **Backend .NET Developer** who enjoys turning business requirements into clean, reliable, and production-oriented backend solutions.
 
 - 💻 **C# / .NET / ASP.NET Core Web API**
 - 🗄️ **SQL Server / PostgreSQL / Entity Framework Core**
 - 🏗️ **Clean Architecture / CQRS / SOLID / Design Patterns**
 - 🔐 **REST APIs / JWT Authentication / ASP.NET Core Identity**
-- 🐳 **Docker & containerized environments**
-- 📨 **RabbitMQ & asynchronous messaging**
-- 🧪 Focused on **clean, maintainable, and testable code**
+- 🐳 **Docker & containerized application environments**
+- 📨 **RabbitMQ & messaging concepts**
+- 🧪 Focused on **clean, maintainable, testable code**
 - 👨‍🏫 Experienced **Coding Instructor** with a focus on programming fundamentals and problem solving
 
 ---
@@ -36,16 +36,28 @@ I'm a **Backend .NET Developer** focused on turning business requirements into c
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <h3 align="center">💻 Backend Development</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
 <p align="center"><code>C#</code> · <code>.NET</code> · <code>ASP.NET Core</code> · <code>Web API</code> · <code>Entity Framework Core</code> · <code>LINQ</code> · <code>REST APIs</code> · <code>JWT</code></p>
 
 <h3 align="center">🏗️ Architecture & Engineering</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
 <p align="center"><code>Clean Architecture</code> · <code>CQRS</code> · <code>SOLID</code> · <code>Repository Pattern</code> · <code>MediatR</code> · <code>FluentValidation</code> · <code>Dependency Injection</code></p>
 
-<h3 align="center">🗄️ Database, Messaging & Infrastructure</h3>
-<p align="center"><code>SQL Server</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>RabbitMQ</code> · <code>Docker</code> · <code>IIS</code> · <code>Azure Fundamentals</code></p>
+<h3 align="center">🗄️ Database & Infrastructure</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,rabbitmq,azure" />
+</p>
+<p align="center"><code>SQL Server</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code> · <code>RabbitMQ</code> · <code>Azure</code> · <code>IIS</code></p>
 
 <h3 align="center">🛠️ Development Tools</h3>
-<p align="center"><code>Git</code> · <code>GitHub</code> · <code>Visual Studio</code> · <code>VS Code</code> · <code>Postman</code> · <code>Swagger/OpenAPI</code></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
+</p>
+<p align="center"><code>Git</code> · <code>GitHub</code> · <code>Visual Studio</code> · <code>VS Code</code> · <code>Postman</code></p>
 
 ---
 
@@ -79,9 +91,9 @@ Contributed as a **Backend .NET Developer** to a real-world banking project, wor
 
 <h3>🛠️ MaintenanceVisits — Gulf Emergency Company</h3>
 
-A **freelance business application** focused on maintenance contracts, field visits, technician workflows, technical reporting, quotations, invoicing, and operational analytics.
+A **freelance business application for Gulf Emergency Company for Safety Tools & Materials**, focused on maintenance contracts, field visits, technician workflows, technical reporting, quotations, invoicing, and operational analytics.
 
-**Tech:** C# · ASP.NET Core 9 Web API · EF Core 9 · SQL Server · Clean Architecture · CQRS · MediatR · JWT · QuestPDF · ClosedXML
+**Tech:** ASP.NET Core 9 Web API · C# · Clean Architecture · CQRS · MediatR · EF Core 9 · SQL Server · JWT · QuestPDF · ClosedXML
 
 🔗 [View Repository](https://github.com/Abdallah72296/MaintenanceVisits)
 
@@ -89,7 +101,7 @@ A **freelance business application** focused on maintenance contracts, field vis
 
 A full-stack **project-management platform** for planning work, coordinating teams, tracking delivery, collaboration, time management, and performance reporting.
 
-**Tech:** C# · ASP.NET Core 8 · Blazor WebAssembly · EF Core · PostgreSQL · CQRS/MediatR · FluentValidation · JWT · Docker · GitHub API · QuestPDF · EPPlus
+**Tech:** ASP.NET Core 8 · C# · Blazor WebAssembly · JavaScript · Bootstrap · EF Core · PostgreSQL · CQRS/MediatR · FluentValidation · JWT · GitHub API · Docker · QuestPDF · EPPlus
 
 🔗 [View Repository](https://github.com/Abdallah72296/Project-Management-System)
 
@@ -101,13 +113,13 @@ A layered **ASP.NET Core Web API** project demonstrating separation of API, core
 
 🔗 [View Repository](https://github.com/Abdallah72296/SystemSales.Api)
 
-<h3>🧩 Portfolio Project API</h3>
+<h3>🎓 Graduation Project</h3>
 
-A production-oriented backend API demonstrating a multi-layered architecture for portfolio-related data and secure API development.
+A backend-focused **ASP.NET Core Web API** graduation project that brings together healthcare and selected local-service modules with authentication, authorization, database integration, and RESTful APIs.
 
-**Tech:** C# · .NET 9 · ASP.NET Core Web API · Entity Framework Core · SQL Server · Microsoft Identity Web · JWT Bearer · OpenAPI · Scalar
+**Tech:** C# · .NET 6 · ASP.NET Core Web API · EF Core 6 · SQL Server · ASP.NET Core Identity · JWT Bearer · AutoMapper · Swagger/OpenAPI · Repository/Service Pattern · Selenium WebDriver · Zendesk API
 
-🔗 [View Repository](https://github.com/Abdallah72296/PortfolioprojectApi)
+🔗 [View Repository](https://github.com/Abdallah72296/GraduationProject)
 
 ---
 
@@ -119,11 +131,11 @@ Focused on building **reliable backend systems, scalable REST APIs, and maintain
 
 <h3>⚙️ Core Technology Stack</h3>
 
-**C# · .NET · ASP.NET Core · Web API · EF Core · LINQ · SQL Server · PostgreSQL · Redis**
+**C# · .NET · ASP.NET Core · Web API · Entity Framework Core · LINQ · SQL Server · PostgreSQL · Redis**
 
 <h3>🏗️ Architecture & Engineering</h3>
 
-Experienced with **Clean Architecture, CQRS, SOLID, Design Patterns, Repository Pattern, MediatR, FluentValidation, and Dependency Injection**.
+Experienced with **Clean Architecture, CQRS, SOLID principles, Design Patterns, Repository Pattern, MediatR, FluentValidation, and Dependency Injection**.
 
 <h3>🔐 APIs & Security</h3>
 
@@ -135,7 +147,11 @@ Experience with **Docker, RabbitMQ, IIS, and Azure fundamentals**, including con
 
 <h3>🧪 Engineering Mindset</h3>
 
-Focused on **clean, maintainable, testable, and production-oriented code**, with attention to scalability and separation of concerns.
+Focused on writing **clean, maintainable, testable, and production-oriented code**, with attention to scalability, separation of concerns, and real-world business requirements.
+
+<h3>🤝 Professional Experience</h3>
+
+Experience across **real-world business systems, banking projects, freelance development, and technical education**, with a strong focus on backend development and problem solving.
 
 ---
 
@@ -145,13 +161,13 @@ Focused on **clean, maintainable, testable, and production-oriented code**, with
 
 | Area | Focus |
 |:---:|:---:|
-| 🧠 System Design | Scalable and maintainable backend systems |
-| 🏗️ Architecture | Clean Architecture, CQRS & separation of concerns |
+| 🧠 System Design | Designing scalable and maintainable backend systems |
+| 🏗️ Architecture | Clean Architecture, CQRS & better separation of concerns |
 | 🐳 Docker | Containers, networking, volumes & production workflows |
 | 📨 Messaging | RabbitMQ & asynchronous communication |
 | ☁️ Cloud | Azure fundamentals and deployment practices |
 | 🔄 CI/CD | Automation, testing and delivery pipelines |
-| 🧪 Testing | Reliable and maintainable automated tests |
+| 🧪 Testing | Writing more reliable and maintainable automated tests |
 
 </div>
 
@@ -167,6 +183,16 @@ Focused on **clean, maintainable, testable, and production-oriented code**, with
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdallah72296&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah72296&theme=github-compact&hide_border=true" width="95%" />
 
 </div>
 
