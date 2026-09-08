@@ -105,14 +105,6 @@ A full-stack **project-management platform** for planning work, coordinating tea
 
 🔗 [View Repository](https://github.com/Abdallah72296/Project-Management-System)
 
-<h3>🧩 SystemSales.Api</h3>
-
-A layered **ASP.NET Core Web API** project demonstrating separation of API, core, service, data, and infrastructure responsibilities.
-
-**Tech:** C# · .NET 7 · ASP.NET Core Web API · EF Core 7 · SQL Server · MediatR · AutoMapper · Swagger/OpenAPI
-
-🔗 [View Repository](https://github.com/Abdallah72296/SystemSales.Api)
-
 <h3>🎓 Graduation Project — Bustan Mall E-Commerce Platform</h3>
 
 My **graduation project**, a multi-store **E-Commerce platform for Bustan Mall** where customers can browse products, manage carts and orders, while store owners can apply to create stores and manage their products after approval.
